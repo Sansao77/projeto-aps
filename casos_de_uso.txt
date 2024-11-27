@@ -1,0 +1,13 @@
+Autenticar Usuário - OK
+Detalhes INOVA
+Escolher Desafio
+Excluir Desafio
+Gerenciar Repositório
+Indicar Participante
+Modificar Cadastro
+Modificar Desafio
+Propor Desafio
+Publicar Desafio
+Submeter Proposta - OK
+Visualizar Desafios - OK
+Visualizar Ciclos Anteriores - OK
